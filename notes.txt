@@ -1,0 +1,31 @@
+form - input, select, text area
+text, email, number these are types of input
+
+div is a block level alement! whatever you put in div takes up that entire area
+
+--> label e for field e ja dibo that must go as an id in the input field
+email: user@domain.domainextension
+
+number: can that 'e' only, rest are number
+
+**form control makes input column 100%! so cols is unchangeable
+text area's row can be changed, but chaangign column won't work if form control is used
+
+**selected attribute** appears on option field first by default
+using disabled with this will not allow anyone to use the "disable selected" option
+
+
+--> the value field is for the backend, takes whatever is written to the backend
+whatever we write on the form is a value that is taken to the server
+value won't work in text-area
+
+
+|| opt group||
+more like a nested option:
+Dhaka Div.
+	dhaka
+	savar
+	gazipur
+
+
+accept="image/*" means we wont be taking anything except images (*means all)
