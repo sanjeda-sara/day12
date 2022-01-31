@@ -29,3 +29,5 @@ Dhaka Div.
 
 
 accept="image/*" means we wont be taking anything except images (*means all)
+
+table, table striped, table-nfo, table hover, table-bordered, borderless all are classes of table
